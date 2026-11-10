@@ -1,0 +1,6 @@
+langchain-core>=1.7
+langchain-openai>=1.7
+langchain-anthropic>=1.7
+openai>=2.0
+pydantic>=2.7
+python-dotenv>=1.0
